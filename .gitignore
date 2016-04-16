@@ -60,4 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Data directory
 data/
+
+# Any model files
+models/
